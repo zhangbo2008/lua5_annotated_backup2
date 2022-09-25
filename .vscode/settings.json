@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cstdio": "c",
+        "module.h": "c",
+        "lauxlib.h": "c",
+        "lua.h": "c",
+        "llex.h": "c",
+        "type_traits": "cpp"
+    }
+}
